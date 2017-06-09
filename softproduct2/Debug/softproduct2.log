@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/6/9 15:40:15。
+     1>项目“C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\softproduct2\softproduct2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt sftext2.c
+         sftext2.c
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(276): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(300): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(309): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(310): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(311): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(538): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(564): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(582): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(676): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2013\projects\softproduct2\softproduct2\sftext2.c(682): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\Debug\softproduct2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\Debug\softproduct2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\Debug\softproduct2.lib" /MACHINE:X86 Debug\winbgi.obj
+         Debug\sftext2.obj
+         softproduct2.vcxproj -> C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\Debug\softproduct2.exe
+     1>已完成生成项目“C:\Users\dell\documents\visual studio 2013\Projects\softproduct2\softproduct2\softproduct2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.63
